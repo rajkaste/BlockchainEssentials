@@ -1,2 +1,2 @@
 # BlockchainEssentials
-LetsUpgrade Assignment by Raj Kaste
+LetsUpgrade Blockchain Assignments by Raj Kaste
