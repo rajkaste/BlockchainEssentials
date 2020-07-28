@@ -1,0 +1,11 @@
+Main Deployed MetaMask Account:-
+https://ropsten.etherscan.io/address/0x7023D04323C8013C5Ecaf13A473Ebc77D85a5eb6
+|  |  |  |
+v  v  v  v
+Check Block Nos.: for Student 1(8384835), Student 2(8384863)
+
+View Student 1 Report Card:-
+https://ropsten.etherscan.io/address/0xc214cdd1682caca22738105ca8e474345a625986#readContract
+
+View Student 2 Report Card:-
+https://ropsten.etherscan.io/address/0xdb2d8032d6049aca6bf5db22e69dc3339a80b067#readContract
